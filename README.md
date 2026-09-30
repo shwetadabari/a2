@@ -1,5 +1,5 @@
 # Tachymeterlily
-Static HTML website. Upload the contents of this folder to a static web host; index.html is the homepage. No PHP or build is required.
+Website with a PHP homepage (index.php) and static HTML inner pages. Upload the contents of this folder to a web host with PHP support; index.php is the homepage and is served at the site root.
 
 ## Included
 Nine HTML pages, twelve homepage sections, thirteen locally stored unique photographs, CSS, JavaScript, SEO files, image/design registries and a manifest.

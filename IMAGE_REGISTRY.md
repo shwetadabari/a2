@@ -13,7 +13,7 @@
 - alt: Black Sternglas Marus dive watch on a dark textured surface
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-01-hero.webp
-- page: index.html
+- page: index.php
 - section: hero
 - purpose: Watch editorial photography
 - domain: tachymeterlily
@@ -34,7 +34,7 @@
 - alt: Gold and silver Shinola dress watches displayed in a wooden watch box
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-02-home-dress.webp
-- page: index.html
+- page: index.php
 - section: home-dress
 - purpose: Watch editorial photography
 - domain: tachymeterlily
@@ -55,7 +55,7 @@
 - alt: Blue-dial TAG Heuer wristwatch on a stainless steel bracelet, worn on a wrist
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-03-home-sport.webp
-- page: index.html
+- page: index.php
 - section: home-sport
 - purpose: Watch editorial photography
 - domain: tachymeterlily
@@ -76,7 +76,7 @@
 - alt: Silver Seiko watch with a cream dial resting on knitted fabric
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-04-home-everyday.webp
-- page: index.html
+- page: index.php
 - section: home-everyday
 - purpose: Watch editorial photography
 - domain: tachymeterlily
@@ -181,7 +181,7 @@
 - alt: Close-up of a Rolex Submariner with black dial and date magnifier
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-09-details.webp
-- page: index.html
+- page: index.php
 - section: details
 - purpose: Section-specific watch photography
 - domain: tachymeterlily
@@ -202,7 +202,7 @@
 - alt: White-dial watch with black textured leather strap on a brown leather cushion against distant mountains
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-10-care.webp
-- page: index.html
+- page: index.php
 - section: care
 - purpose: Section-specific watch photography
 - domain: tachymeterlily
@@ -223,7 +223,7 @@
 - alt: Vintage Oris watch with cream Arabic-numeral dial and brown leather strap against dark foliage
 - verification: Downloaded, decoded successfully, and visually inspected in contact sheet
 - filename: assets/images/tachymeterlily-11-occasions.webp
-- page: index.html
+- page: index.php
 - section: occasions
 - purpose: Section-specific watch photography
 - domain: tachymeterlily
